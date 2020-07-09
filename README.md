@@ -2,7 +2,7 @@
 
 #### 💻💼  I'm currently working on
 
-* Math C++ library;
+* Math and algorithms C++ library;
 * Company website and mobile app.
 
 #### 🤓🎓 I'm currently learning
