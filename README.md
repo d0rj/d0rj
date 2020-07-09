@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I'm student and junior developer
 
-<!--
-**d0rj/d0rj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻💼  I'm currently working on
 
-Here are some ideas to get you started:
+* Math C++ library;
+* Company website and mobile app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤓🎓 I'm currently learning
+
+* Mathematical logic;
+* Computational mathematics;
+* Haskell 🤯.
+
+#### 💬 How to reach me
+
+  🐵 [Vk](https://vk.com/d0rj3228)
+
+  🙈 [Email](mailto:dima.balobin2001@gmail.com)
+
+  🙉 [Linkedin](https://www.linkedin.com/in/d0rj/)
+
+  🙊 [Profile site](https://d0rj.github.io/profile/)
+
+#### ⚡ Interests
+
+* 📚 Math;
+* 🎲 Board games;
+* 📝 [Little bit articles](https://habr.com/ru/users/d0rj/)
