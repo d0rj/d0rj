@@ -21,5 +21,4 @@
 #### ⚡ Interests
 
 * 📚 Math;
-* 🎲 Board games;
-* 📝 [Little bit articles](https://habr.com/ru/users/d0rj/)
+* 🎲 Board games.
