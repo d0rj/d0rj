@@ -10,7 +10,6 @@
 
   🐵 [Vk](https://vk.com/d0rj3228) 
   🙈 [Email](mailto:dima.balobin2001@gmail.com) 
-  🙉 [Linkedin](https://www.linkedin.com/in/d0rj/) 
 
 #### ⚡ Interests
 
