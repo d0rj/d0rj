@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm student and junior developer
 
-#### 💻💼  I'm currently working on
-
-* Math and algorithms C++ library;
-* Company website and mobile app.
-
 #### 🤓🎓 I'm currently learning
 
 * Mathematical logic;
@@ -16,7 +11,6 @@
   🐵 [Vk](https://vk.com/d0rj3228) 
   🙈 [Email](mailto:dima.balobin2001@gmail.com) 
   🙉 [Linkedin](https://www.linkedin.com/in/d0rj/) 
-  🙊 [Profile site](https://d0rj.github.io/profile/)  
 
 #### ⚡ Interests
 
