@@ -3,7 +3,6 @@
 #### 🤓🎓 I'm currently learning
 
 * Mathematical logic;
-* Computational mathematics;
 * Haskell 🤯.
 
 #### 💬 How to reach me
