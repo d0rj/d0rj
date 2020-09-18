@@ -9,6 +9,7 @@
 
   🐵 [Vk](https://vk.com/d0rj3228) 
   🙈 [Email](mailto:dima.balobin2001@gmail.com) 
+  🙊 [Telegram](t.me/@d0rj3228)
 
 #### ⚡ Interests
 
