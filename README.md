@@ -1,9 +1,10 @@
-### Hi there 👋, I'm student and junior developer
-
+### Hi there 👋. I'm student
 #### 🤓🎓 I'm currently learning
 
 * Mathematical logic;
-* Haskell 🤯.
+* Basics of formal semantics;
+* How to write code;
+* How people use Linux. After all, you can use Windows as a normal person. Why complicate your life?
 
 #### 💬 How to reach me
 
