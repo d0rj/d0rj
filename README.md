@@ -1,4 +1,4 @@
-### Hi there 👋. I'm student
+### Hi there 👋
 #### 🤓🎓 I'm currently learning
 
 * Mathematical logic;
@@ -8,7 +8,6 @@
 
 #### 💬 How to reach me
 
-  🐵 [Vk](https://vk.com/d0rj3228) 
   🙈 [Email](mailto:hanaan@internet.ru) 
   🙊 [Telegram](https://t.me/@d0rj3228)
 
@@ -16,7 +15,3 @@
 
 * 📚 Math;
 * 🎲 Board games.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=d0rj&count_private=true&show_icons=true&custom_title=Stats)
-
-![Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d0rj&exclude_repo=Lamb,Java_Course,Java-Lab5&layout=compact&langs_count=8)
