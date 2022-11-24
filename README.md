@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@d0rj/68e11f05-7f79-493a-bcde-5c703fa24567.svg"></embed></figure>
+![WakaTime](https://wakatime.com/share/@d0rj/b910b487-116b-471b-9f35-9b157f0fddb8.png)
 
 <!--
 **d0rj/d0rj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
