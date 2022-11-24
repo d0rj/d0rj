@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@d0rj/68e11f05-7f79-493a-bcde-5c703fa24567.svg"></embed></figure>
+
 <!--
 **d0rj/d0rj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
